@@ -1,5 +1,5 @@
-# Mô hình mạng nơ-ron
+# Neural Network Model
 
-Sử dụng một mô hình mạng nơ-ron để phân loại hình ảnh. Cụ thể hơn, chúng ta sử dụng một mô hình ResNet-18 đã được huấn luyện trước trên tập dữ liệu ImageNet để phân loại hình ảnh của các món ăn trong nền ẩm thực Việt Nam.
+We use a neural network model for image classification. Specifically, a pre-trained ResNet-18 on ImageNet is employed to classify images of Vietnamese cuisine dishes.
 
-Mô hình ResNet-18 là một mô hình mạng nơ-ron tích chập sâu, được thiết kế để giải quyết các bài toán phân loại hình ảnh. Mô hình này bao gồm nhiều lớp tích chập, lớp kết nối đầy đủ và các lớp khác để trích xuất đặc trưng từ hình ảnh và dự đoán nhãn cho hình ảnh.
+ResNet-18 is a deep convolutional neural network designed for image classification tasks. It consists of multiple convolutional layers, fully connected layers, and other components to extract features from images and predict their labels.
